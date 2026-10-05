@@ -1,4 +1,4 @@
-# Ai-CLeanrningCode
+# Ai-CCode
 
 Programmation d'une intéligence artificiel en language C.
 Ce projet est un projet type nouveaux sans reprnedre les codes de l'ancienne indusrtie  de l'ia visantt à créer une IA générative de type LLM totalement en language C.  
